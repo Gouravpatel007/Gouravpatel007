@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Gourav Patel!
 
-https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif
+<p align="center">
+  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="350" alt="Live Coding Animation">
+</p>
 
 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering (AI & ML)**.  
 💻 I'm passionate about web development and actively building projects using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
