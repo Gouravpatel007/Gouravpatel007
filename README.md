@@ -24,13 +24,13 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: `gouravpatel.dev@gmail.com` *(sample, update with your real email if needed)*
+- 📧 Email: kp180284@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gourav12patel)
 - 🌐 [Portfolio](https://portfolio-1my.netlify.app/)
 
 ---
 
-> "Consistency beats intensity. Keep building, keep growing."
+> "Consistency beats intensity."
 
 Thanks for visiting! ⭐
 
