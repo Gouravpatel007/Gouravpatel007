@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Gourav Patel!
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="350" alt="Live Coding Animation">
+  <img src="https://t4.ftcdn.net/jpg/08/26/29/79/360_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.jpg" width="350" alt="Live Coding Animation">
 </p>
 
 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering (AI & ML)**.  
