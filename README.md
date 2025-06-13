@@ -1,5 +1,4 @@
-
-  👋 Hi there, I'm Gourav Patel!
+👋 Hi there, I'm Gourav Patel!
 
 <p align="center">
   <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="350" alt="Live Coding Animation">
