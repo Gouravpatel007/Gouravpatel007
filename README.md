@@ -32,9 +32,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/gourav12patel)
 - 🌐 [Portfolio](https://portfolio-1my.netlify.app/)
 
----
-
-> "Consistency beats intensity."
-
-Thanks for visiting! ⭐
-
