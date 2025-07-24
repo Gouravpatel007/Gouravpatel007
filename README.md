@@ -43,12 +43,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouravpatel007&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouravpatel007&layout=compact&langs_count=10&theme=tokyonight" alt="Top languages used" />
 </p>
 
 ---
@@ -60,7 +55,5 @@
 - 🌐 [Portfolio](https://portfolio-1my.netlify.app/)
 
 ---
-
-⭐️ *Thanks for visiting my profile! If you like my work, feel free to star ⭐ my repositories and connect!* 😊
 
 ⭐️ *Thanks for visiting my profile! If you like my work, feel free to star ⭐ my repositories and connect!* 😊
