@@ -5,14 +5,14 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Welcome+to+Frontend+Developer;Welcome+to+Backend+Developer;Welcome+to+MERN+Stack+Developer;Welcome+to+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+MERN+Stack+Developer;I'm+a+Full+Stack+Developer" alt="Typing SVG" />
 </h3>
 
 ---
 
 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering (AI & ML)**.  
 💻 I'm passionate about web development and actively building projects using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
-🚀 My goal is to become a full-stack developer and looking ahead to be a part of coding community.
+🚀 My goal is to become a full-stack developer and looking ahead to be a part of the coding community.
 
 ---
 
@@ -24,16 +24,36 @@
 
 ---
 
-## 📌 Interests
-- 💡 Web Development (Frontend + Backend)
-- 📈 Building Scalable and Real-world Applications
-- 🎥 Creating educational/animated videos for YouTube
-- 🌐 Open Source and Community Learning
-- ⚡ Cloud & DevOps (Beginner level interest)
+## 💻 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,github,git,bootstrap,vscode,postman" />
+</p>
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gouravpatel007&show_icons=true&theme=radical" alt="Gourav's GitHub stats" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouravpatel007&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: kp180284@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/gourav12patel)
+
+- 📧 Email: kp180284@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gourav12patel)  
 - 🌐 [Portfolio](https://portfolio-1my.netlify.app/)
+
+---
+
+⭐️ *Thanks for visiting my profile! If you like my work, feel free to star ⭐ my repositories and connect!* 😊
