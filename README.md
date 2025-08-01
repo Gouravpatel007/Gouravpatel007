@@ -59,7 +59,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gouravpatel007&style=flat-square&color=brightgreen" alt="Profile views" />
+  <img src="https://hits.dwyl.com/Gouravpatel007/Gouravpatel007.svg?style=flat-square&color=ff69b4&label=Profile%20Views" alt="Profile view counter" />
 </p>
 
 ---
