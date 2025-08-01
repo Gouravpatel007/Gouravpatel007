@@ -56,4 +56,12 @@
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gouravpatel007&style=flat-square&color=brightgreen" alt="Profile views" />
+</p>
+
+---
+
 ⭐️ *Thanks for visiting my profile! If you like my work, feel free to star ⭐ my repositories and connect!* 😊
