@@ -34,13 +34,8 @@
 
 ## 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gouravpatel007&show_icons=true&theme=radical" alt="Gourav's GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouravpatel007&layout=compact&langs_count=10&theme=tokyonight&count_private=true" alt="Top languages used" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gouravpatel007&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
