@@ -34,15 +34,17 @@
 
 ## 📈 My GitHub Stats
 
-<img src="https://gourav-stats.vercel.app/api?username=Gouravpatel007&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gourav's GitHub stats" />
+<img src="https://github-readme-stats-gourav.vercel.app/api?username=Gouravpatel007&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gourav's GitHub stats" />
 
 ---
 
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://gourav-stats.vercel.app/api/top-langs/?username=Gouravpatel007&layout=compact&langs_count=10&theme=tokyonight&count_private=true" alt="Top languages used" />
+  <img src="https://github-readme-stats-gourav.vercel.app/api/top-langs/?username=Gouravpatel007&layout=compact&langs_count=10&theme=tokyonight&count_private=true" alt="Top languages used" />
 </p>
+
+---
 
 
 ## 📫 Connect with Me
